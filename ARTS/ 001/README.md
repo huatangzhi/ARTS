@@ -28,8 +28,8 @@ object Solution {
 ##2. Review(https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 
 ### A SCALA TUTORIAL FOR JAVA PROGRAMMERS
-
 这份文档主要是面向具有想学习Scala的具有Java基础的程序员。
+https://github.com/huatangzhi/ARTS/blob/master/ARTS/%20001/A%20SCALA%20TUTORIAL%20FOR%20JAVA%20PROGRAMMERS.md
 
 ## 3. Tips
 早起可以更高效的生活。
