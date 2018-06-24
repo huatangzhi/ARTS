@@ -25,6 +25,9 @@ object Solution {
 }
 ```
 
+* Time Complexity：O(n)
+* Space Complexity: O(1)
+
 ##2. Review(https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 
 ### A SCALA TUTORIAL FOR JAVA PROGRAMMERS
