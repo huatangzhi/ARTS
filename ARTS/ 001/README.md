@@ -32,7 +32,8 @@ object Solution {
 https://github.com/huatangzhi/ARTS/blob/master/ARTS/%20001/A%20SCALA%20TUTORIAL%20FOR%20JAVA%20PROGRAMMERS.md
 
 ## 3. Tips
-早起可以更高效的生活。
+* 早起可以更高效的生活。
 
 ## 4. Shares
 最近在看MDN上关于Web开发的基础知识。目前正在阅读HTTP相关知识，正在整理笔记中。
+
