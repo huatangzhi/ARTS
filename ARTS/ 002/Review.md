@@ -1,11 +1,7 @@
----
-typora-copy-images-to: ../ 002
----
-
 #Web Architecture 101
 ## The basic architecture concepts I wish I knew when I was getting started as a web developer
 
-![img](/Users/hp/Desktop/ARTS/ 002/1*K6M-x-6e39jMq_c-2xqZIQ.png)
+![img](https://ws4.sinaimg.cn/large/006tNc79gy1ftanh1uji3j30ih0bpta1.jpg)
 
 >上面是Stroryblocks网站的基本结构。下面是响应用户的一系列流程：
 >
