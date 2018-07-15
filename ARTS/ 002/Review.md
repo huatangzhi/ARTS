@@ -1,4 +1,7 @@
 #Web Architecture 101
+
+
+
 ## The basic architecture concepts I wish I knew when I was getting started as a web developer
 
 ![img](https://ws4.sinaimg.cn/large/006tNc79gy1ftanh1uji3j30ih0bpta1.jpg)
