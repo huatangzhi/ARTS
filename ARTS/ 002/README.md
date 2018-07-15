@@ -50,18 +50,10 @@ private int size(TreeNode root) 该函数用来获取root为根结点的树的�
 3. 若左子树的大小小于k，则在右子树中寻找第 k - left - 1 小。
 */
 ```
-
-
-
 * Time Complexity：
-* Space Complexity: 
-
-
-
-##2. Review
-
-
-
+* Space Complexity:
+ 
+## 2. Review
 https://github.com/huatangzhi/ARTS/blob/master/ARTS/%20002/Review.md
 
 ## 3. Tips
